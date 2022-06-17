@@ -26,6 +26,8 @@ section{
     border-radius: 5px;
     text-transform: uppercase;
 }
-.banner-pd{
-    background-image: url(image/);
+
+.top-banner{
+background-image: url(image/top-banner.png);
+
 }
